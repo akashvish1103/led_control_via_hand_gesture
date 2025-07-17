@@ -1,4 +1,4 @@
-# 🤖 Hand Gesture Controlled LED with OpenCV, MediaPipe, and ESP32 (WiFi)
+# 🤖WiFi-Based Hand Gesture Controlled LED System using ESP32, OpenCV, and MediaPipe
 
 This project demonstrates a computer vision-based system that detects **hand gestures using OpenCV and MediaPipe** to control a **Wi-Fi connected LED via ESP32**. 
 
